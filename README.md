@@ -38,9 +38,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name: MIDHUN AZHAHU RAJA P
 
-### Register Number:
+### Register Number: 212222240066
 
 ```python
 # Load Pretrained Model and Modify for Transfer Learning
